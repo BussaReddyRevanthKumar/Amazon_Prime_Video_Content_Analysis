@@ -20,7 +20,7 @@ The objective of this project is to analyze the content available on Amazon Prim
 - Top Genres by Total Shows – The genres with the most titles.
 - Titles by Release Year – Trends in title releases over time.
 
-- Dashboard Interaction <a href=" 
+- Dashboard Interaction <a href="https://github.com/BussaReddyRevanthKumar/Amazon_Prime_Video_Content_Analysis/blob/main/amazon_prime_dashboard_image.jpg">View Dashboard</a>
 
 ## 🔄 Process
 - Data Collection – Acquired Amazon Prime Video dataset (titles, ratings, genres, release years, countries, and content types).
@@ -28,6 +28,11 @@ The objective of this project is to analyze the content available on Amazon Prim
 - Data Analysis – Used Power BI for data visualization (bar charts, pie charts, maps, line charts).
 - Visualization – Created a dashboard showcasing KPIs, ratings distribution, genre breakdown, title trends over time, and global content spread.
 - Insights & Conclusions – Derived meaningful insights based on visualizations.
+- 
+## Dashboard 
+
+![amazon_prime_dashboard_image](https://github.com/user-attachments/assets/73a1900e-38a0-4d7f-a42d-2bc535e7b568)
+
 
 ## 💡 Project Insights
 - Prime Video has a vast library of 9,655 titles, with a majority being TV Shows (80.82%).
