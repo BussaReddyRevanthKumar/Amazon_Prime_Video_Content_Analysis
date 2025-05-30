@@ -28,7 +28,7 @@ The objective of this project is to analyze the content available on Amazon Prim
 - Data Analysis – Used Power BI for data visualization (bar charts, pie charts, maps, line charts).
 - Visualization – Created a dashboard showcasing KPIs, ratings distribution, genre breakdown, title trends over time, and global content spread.
 - Insights & Conclusions – Derived meaningful insights based on visualizations.
-- 
+
 ## Dashboard 
 
 ![amazon_prime_dashboard_image](https://github.com/user-attachments/assets/73a1900e-38a0-4d7f-a42d-2bc535e7b568)
